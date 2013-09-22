@@ -12,6 +12,7 @@ Install rubygems and sinatra
 
     gem install rubygems
     gem install sinatra 
+    gem install rest-client
 
 Create a new Venmo Application by visiting https://venmo.com/
 
