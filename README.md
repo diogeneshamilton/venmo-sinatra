@@ -18,11 +18,7 @@ Create a new Venmo Application by visiting https://venmo.com/
 
 Login and go to: Account > Developers > [New Application](https://venmo.com/account/app/new).
 
-![Create new application](https://dl.dropbox.com/u/800/Captured/GbalC.png)
-
-You can find your app ID and secret here:
-![Get app credentials](https://dl.dropboxusercontent.com/s/9gysjwne1u321fa/ExampleOAuthFlaskAppCredentials.png)
-
+![Create new application](https://dl.dropboxusercontent.com/s/ffo01uzr65y9kzw/GbalC.png)
 
 Clone this repo and cd into the venmo-sinatra directory.
 Create a constants.rb file with these definitions:
